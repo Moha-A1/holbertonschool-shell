@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lano. ../boot
+ls -lano . ../boot
